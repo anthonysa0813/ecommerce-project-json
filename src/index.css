@@ -1,0 +1,49 @@
+@import url("./style-icons.css");
+
+:root {
+  --color-dark: #000;
+  --blue-dark: #151875;
+  --color-gray: #8a8fb9;
+  --blue-primary: #4853c2;
+  --pink-primary: #fb2e86;
+  --blue-linear: linear-gradient(105.15deg, #5465ff 0%, #b654ef 100%);
+  --blue-linear2: linear-gradient(105.15deg, #4e5aff 0%, #5d8dff 100%);
+  --pink-linear: linear-gradient(135deg, #fa3be5 0%, #ff289f 100%);
+  --color-white: #fff;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.wrapper {
+  width: 1366px;
+  margin: 0 auto;
+}
+
+.debug {
+  border: 3px solid brown;
+}
+
+main {
+  background-color: #ebebeb;
+  padding-block: 40px;
+}
+
+h3 {
+  margin: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  color: var(--blue-dark);
+  line-height: 40px;
+}
