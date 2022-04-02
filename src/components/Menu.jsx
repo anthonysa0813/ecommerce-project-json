@@ -1,23 +1,36 @@
-import React from "react";
+import React, { useContext } from "react";
+import { ProductContext } from "../hooks/ProductHook";
 import logo from "../images/logo.svg";
 import { Header } from "../styled/Header";
+import { NavLink, Link } from "react-router-dom";
 
 const Menu = () => {
+  const { productsArr } = useContext(ProductContext);
+
+  const { carrito, total } = productsArr;
   return (
     <Header className="">
       <div className="wrapper">
         <div className="headerContainer ">
           <div className="logoContainer">
-            <img src={logo} alt="Logo de la ecommerce" />
+            <Link to="/">
+              <img src={logo} alt="Logo de la ecommerce" />
+            </Link>
           </div>
           <nav className="navigation">
             <ul>
-              <li>Productos</li>
+              <li>
+                <NavLink to="/products">Productos</NavLink>
+              </li>
               <li>Blog</li>
               <li>Tienda</li>
               <li>Contacto</li>
-              <li>
-                <i className="icon-shopping-cart"></i>
+              <li className=" iconContent">
+                <i className="icon-shopping-cart">
+                  <span className="cartAlert">
+                    <p>{carrito.length}</p>
+                  </span>
+                </i>
               </li>
             </ul>
           </nav>

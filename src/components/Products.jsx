@@ -1,15 +1,25 @@
-import React from "react";
+import React, { useContext } from "react";
 import Stars from "simple-rating-stars";
 import { formateoPrecio } from "../helper/formateo";
 import FetchProduct from "../hooks/FetchProduct";
+import { ProductContext } from "../hooks/ProductHook";
 import { Product } from "../styled/Product";
 
 const Products = () => {
+  const { productsArr, setProductsArr } = useContext(ProductContext);
+  const { carrito, total } = productsArr;
   const { products } = FetchProduct(`http://localhost:4000/products`);
+
+  const addProduct = (product) => {
+    setProductsArr({
+      ...productsArr,
+      carrito: [...carrito, product],
+    });
+  };
 
   return products.map((product) => {
     return (
-      <Product className="">
+      <Product className="" key={product.id}>
         <div className="productImage">
           <img src={product.image} alt="" />
         </div>
@@ -30,7 +40,9 @@ const Products = () => {
         </div>
         <div className="productAction ">
           <button>Comprar ahora</button>
-          <button>Agregar al carrito</button>
+          <button onClick={() => addProduct(product)}>
+            Agregar al carrito
+          </button>
         </div>
       </Product>
     );

@@ -1,7 +1,10 @@
 import styled from "styled-components";
 
 export const Header = styled.header`
+  position: sticky;
+  top: 0;
   padding-block: 1.5rem;
+  background-color: var(--color-white);
   & .headerContainer {
     display: flex;
     align-items: center;
@@ -36,5 +39,28 @@ export const Header = styled.header`
       color: var(--color-white);
       border: none;
     }
+  }
+  & .iconContent {
+    position: relative;
+  }
+  & .cartAlert {
+    position: absolute;
+    padding: 3px;
+    width: 1rem;
+    height: 1rem;
+    background-color: red;
+    border-radius: 60px;
+    top: -0.75rem;
+    right: -1rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 12px;
   }
 `;
