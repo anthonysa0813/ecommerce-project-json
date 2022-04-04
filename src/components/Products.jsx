@@ -4,6 +4,9 @@ import { formateoPrecio } from "../helper/formateo";
 import FetchProduct from "../hooks/FetchProduct";
 import { ProductContext } from "../hooks/ProductHook";
 import { Product } from "../styled/Product";
+import { Link } from "react-router-dom";
+import "react-inner-image-zoom/lib/InnerImageZoom/styles.css";
+import InnerImageZoom from "react-inner-image-zoom";
 
 const Products = () => {
   const { productsArr, setProductsArr } = useContext(ProductContext);
@@ -21,10 +24,13 @@ const Products = () => {
     return (
       <Product className="" key={product.id}>
         <div className="productImage">
-          <img src={product.image} alt="" />
+          <InnerImageZoom src={product.image} />
+          {/* <img src={product.image} alt="" /> */}
         </div>
         <div className="productInfo">
-          <h3>{product.title}</h3>
+          <Link className="productTitle" to={`/products/${product.id}`}>
+            {product.title}
+          </Link>
           <div className="productScores">
             <span>{formateoPrecio(product.price)}</span>
             <span className="discount">{formateoPrecio(product.price)}</span>

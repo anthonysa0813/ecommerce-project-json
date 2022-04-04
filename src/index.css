@@ -47,3 +47,34 @@ h3 {
   color: var(--blue-dark);
   line-height: 40px;
 }
+
+.productTitle {
+  margin: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  color: var(--blue-dark);
+  line-height: 40px;
+  text-decoration: none;
+}
+
+.discount {
+  color: var(--pink-primary);
+  text-decoration: line-through;
+}
+
+.button-fill {
+  color: var(--color-white);
+  background-color: var(--pink-primary);
+  border: none;
+  margin-block-end: 1rem;
+}
+
+.button-unfill {
+  background-color: var(--color-white);
+  border: 1px solid var(--pink-primary);
+  color: var(--pink-primary);
+
+  margin-block-end: 1rem;
+}

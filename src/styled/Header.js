@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Header = styled.header`
   position: sticky;
   top: 0;
+  z-index: 100;
   padding-block: 1.5rem;
   background-color: var(--color-white);
   & .headerContainer {
