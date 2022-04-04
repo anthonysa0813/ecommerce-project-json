@@ -17,11 +17,335 @@
           "battery": 18
         }
       ],
-      "images_zoom": [
-        "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648915786/product-zoom1_xknaly.png",
-        "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648915786/product-zoom2_gjfopy.png",
-        "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648915786/product-zoom3_pk6awu.png",
-        "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648915786/product-zoom4_bvsv4i.png"
+      "comments": [
+        {
+          "id": "AGFT21",
+          "name": "Jafet de la Cruz",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/jaffet_et8h5t.png"
+        },
+        {
+          "id": "ATRS213",
+          "name": "Courtney Henry",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/kristin_pncoeu.png"
+        },
+        {
+          "id": "PNHS863",
+          "name": "Eleanor Pena",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/eleanor_wwtzwl.png"
+        },
+        {
+          "id": "MCVT231",
+          "name": "Darlene Robertson",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/darlene_gduffo.png"
+        },
+        {
+          "id": "HTAS563",
+          "name": "Kristin Watson",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/courtney_rc5cis.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Hisense 4k Uhd A6gv Tv 65 Pulgadas (65a6gv 2021)",
+      "model": "Hisense 4k Uhd A6gv Tv 65 Pulgadas (65a6gv 2021)",
+      "price": 13599,
+      "score": 4,
+      "image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/hisense_gawcor.png",
+      "description": "La notebook más delgada y ligera de Apple viene con los superpoderes del chip M1. Termina todos tus proyectos mucho más rápido con el CPU de 8 núcleos y disfruta como nunca antes de apps y juegos con gráficos avanzados gracias al GPU de hasta 8 núcleos. Además, el Neural Engine de 16 núcleos se encarga de acelerar todos los procesos de aprendizaje automático. Todo en un diseño silencioso sin ventilador que te ofrece la mayor duración de batería en una MacBook Air: hasta 18 horas. (1) Portátil como siempre, más poderosa que nunca.",
+      "subdescription": "Disfruta tus videojuegos al máximo gracias al HDMI versión 2.1 y a su Game Mode, que te aseguran la mejor experiencia de juego con las versiones más recientes de consolas y las tecnologías más avanza...",
+      "features": [
+        {
+          "memory": 2,
+          "screen_size": 50,
+          "resolution": "Full HD",
+          "battery": 0
+        }
+      ],
+      "comments": [
+        {
+          "id": "AGFT21",
+          "name": "Jafet de la Cruz",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/jaffet_et8h5t.png"
+        },
+        {
+          "id": "ATRS213",
+          "name": "Courtney Henry",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/kristin_pncoeu.png"
+        },
+        {
+          "id": "PNHS863",
+          "name": "Eleanor Pena",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/eleanor_wwtzwl.png"
+        },
+        {
+          "id": "MCVT231",
+          "name": "Darlene Robertson",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/darlene_gduffo.png"
+        },
+        {
+          "id": "HTAS563",
+          "name": "Kristin Watson",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/courtney_rc5cis.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Apple Macbook Air (13 pulgadas, 2020, Chip M1, 256 GB de SSD, 8 GB de RAM) - Gris espacial)",
+      "model": "Apple Macbook Air (13 pulgadas, 2020, Chip M1, 256 GB de SSD, 8 GB de RAM) - Gris espacial)",
+      "price": 25000,
+      "score": 4,
+      "image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791112/macbook-air_njrrmg.png",
+      "description": "La notebook más delgada y ligera de Apple viene con los superpoderes del chip M1. Termina todos tus proyectos mucho más...",
+      "subdescription": "La notebook más delgada y ligera de Apple viene con los superpoderes del chip M1. Termina todos tus proyectos mucho más...",
+      "features": [
+        {
+          "memory": 6,
+          "screen_size": 17,
+          "resolution": "Full HD",
+          "battery": 15
+        }
+      ],
+      "comments": [
+        {
+          "id": "AGFT21",
+          "name": "Jafet de la Cruz",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/jaffet_et8h5t.png"
+        },
+        {
+          "id": "ATRS213",
+          "name": "Courtney Henry",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/kristin_pncoeu.png"
+        },
+        {
+          "id": "PNHS863",
+          "name": "Eleanor Pena",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/eleanor_wwtzwl.png"
+        },
+        {
+          "id": "MCVT231",
+          "name": "Darlene Robertson",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/darlene_gduffo.png"
+        },
+        {
+          "id": "HTAS563",
+          "name": "Kristin Watson",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/courtney_rc5cis.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Smart TV Hisense A6G Series 43A6G 4K 120V (43 pulgadas)",
+      "model": "Smart TV Hisense A6G Series 43A6G 4K 120V (43 pulgadas)",
+      "price": 7890,
+      "score": 4,
+      "image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/hisense-smart_nwb1k3.png",
+      "description": "Hisense es la marca n.º1 de Televisores en China y la 3.ª en electrodomésticos en el mundo. Fue reconocida con diferentes premios por sus altos estándares en innovación, tecnología, diseño...",
+      "subdescription": "Hisense es la marca n.º1 de Televisores en China y la 3.ª en electrodomésticos en el mundo. Fue reconocida con diferentes premios por sus altos estándares en innovación, tecnología, diseño...",
+      "features": [
+        {
+          "memory": 4,
+          "screen_size": 65,
+          "resolution": "Full HD",
+          "battery": 0
+        }
+      ],
+      "comments": [
+        {
+          "id": "AGFT21",
+          "name": "Jafet de la Cruz",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/jaffet_et8h5t.png"
+        },
+        {
+          "id": "ATRS213",
+          "name": "Courtney Henry",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/kristin_pncoeu.png"
+        },
+        {
+          "id": "PNHS863",
+          "name": "Eleanor Pena",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/eleanor_wwtzwl.png"
+        },
+        {
+          "id": "MCVT231",
+          "name": "Darlene Robertson",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/darlene_gduffo.png"
+        },
+        {
+          "id": "HTAS563",
+          "name": "Kristin Watson",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/courtney_rc5cis.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Nintendo Switch 32GB Standard color rojo neón, azul neón y negro",
+      "model": "Nintendo Switch 32GB Standard color rojo neón, azul neón y 240gro",
+      "price": 24090,
+      "score": 4,
+      "image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791113/nintendo-swtch_ctkwdt.png",
+      "description": "Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodida...",
+      "subdescription": "Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodida...",
+      "features": [
+        {
+          "memory": 8,
+          "screen_size": 11,
+          "resolution": "Full HD",
+          "battery": 10
+        }
+      ],
+      "comments": [
+        {
+          "id": "AGFT21",
+          "name": "Jafet de la Cruz",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/jaffet_et8h5t.png"
+        },
+        {
+          "id": "ATRS213",
+          "name": "Courtney Henry",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/kristin_pncoeu.png"
+        },
+        {
+          "id": "PNHS863",
+          "name": "Eleanor Pena",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/eleanor_wwtzwl.png"
+        },
+        {
+          "id": "MCVT231",
+          "name": "Darlene Robertson",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/darlene_gduffo.png"
+        },
+        {
+          "id": "HTAS563",
+          "name": "Kristin Watson",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/courtney_rc5cis.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Apple Macbook Air (13 pulgadas, 2020, Chip M1, 256 GB de SSD, 8 GB de RAM) - Gris espacial)",
+      "model": "Apple Macbook Air (13 pulgadas, 2020, Chip M1, 256 GB de SSD, 8 GB de RAM) - Gris espacial)",
+      "price": 25000,
+      "score": 4,
+      "image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791112/macbook-air_njrrmg.png",
+      "description": "La notebook más delgada y ligera de Apple viene con los superpoderes del chip M1. Termina todos tus proyectos mucho más...",
+      "subdescription": "La notebook más delgada y ligera de Apple viene con los superpoderes del chip M1. Termina todos tus proyectos mucho más...",
+      "features": [
+        {
+          "memory": 6,
+          "screen_size": 17,
+          "resolution": "Full HD",
+          "battery": 15
+        }
+      ],
+      "comments": [
+        {
+          "id": "AGFT21",
+          "name": "Jafet de la Cruz",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/jaffet_et8h5t.png"
+        },
+        {
+          "id": "ATRS213",
+          "name": "Courtney Henry",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/kristin_pncoeu.png"
+        },
+        {
+          "id": "PNHS863",
+          "name": "Eleanor Pena",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/eleanor_wwtzwl.png"
+        },
+        {
+          "id": "MCVT231",
+          "name": "Darlene Robertson",
+          "comment": "Es una portatil muy veloz vale la pena el precio, es mi primera macbook y estoy contento de haber elegido este modelo, quizas me gustaría que trajera mas grande el ssd pero por lo demás todo muy bien, lo recomiendo.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/darlene_gduffo.png"
+        },
+        {
+          "id": "HTAS563",
+          "name": "Kristin Watson",
+          "comment": "Es una excelente macbook, bastante rápida (aunque no tanto como uno esperaría de una mac, pero es entendible dado que es el modelo air) y confiable, con una duración decente a la batería y una hermosa pantalla delgada. . Perfecta para ofimática y trabajos estudiantiles ligeros, pero no recomendable para estudiantes de carreras universitarias que necesiten potencia y versatilidad, en ese caso estaría mejor una laptop o una de escritorio por el mismo precio.",
+          "score": 4,
+          "profile_image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791111/courtney_rc5cis.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Apple Macbook Air (13 pulgadas, 2020, Chip M1, 256 GB de SSD, 8 GB de RAM) - Gris espacial",
+      "model": "Apple MacBook Air A2337",
+      "price": 25000,
+      "score": 4,
+      "image": "https://res.cloudinary.com/dzgbz8lvg/image/upload/v1648791112/mac-laptop_vgrffz.png",
+      "description": "La notebook más delgada y ligera de Apple viene con los superpoderes del chip M1. Termina todos tus proyectos mucho más rápido con el CPU de 8 núcleos y disfruta como nunca antes de apps y juegos con gráficos avanzados gracias al GPU de hasta 8 núcleos. Además, el Neural Engine de 16 núcleos se encarga de acelerar todos los procesos de aprendizaje automático. Todo en un diseño silencioso sin ventilador que te ofrece la mayor duración de batería en una MacBook Air: hasta 18 horas. (1) Portátil como siempre, más poderosa que nunca.",
+      "subdescription": "Disfruta tus videojuegos al máximo gracias al HDMI versión 2.1 y a su Game Mode, que te aseguran la mejor experiencia de juego con las versiones más recientes de consolas y las tecnologías más avanza...",
+      "features": [
+        {
+          "memory": 8,
+          "screen_size": 13.3,
+          "resolution": "Full HD",
+          "battery": 18
+        }
       ],
       "comments": [
         {
